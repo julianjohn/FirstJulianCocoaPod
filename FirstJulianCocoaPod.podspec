@@ -9,21 +9,21 @@
 Pod::Spec.new do |s|
   s.name             = "FirstJulianCocoaPod"
   s.version          = "0.1.0"
-  s.summary          = "A short description of FirstJulianCocoaPod."
+  s.summary          = "My first cocoapod is FirstJulianCocoaPod."
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
 #   * Try to keep it short, snappy and to the point.
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!  
-  s.description      = <<-DESC
-                       DESC
+  s.description      = "This is the description for FirstJulianCocoaPod."
 
-  s.homepage         = "https://github.com/<GITHUB_USERNAME>/FirstJulianCocoaPod"
+
+  s.homepage         = "https://github.com/julianjohn/FirstJulianCocoaPod"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "Julian John" => "julianrex.johnambrose@in.bosch.com" }
-  s.source           = { :git => "https://github.com/<GITHUB_USERNAME>/FirstJulianCocoaPod.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/julianjohn/FirstJulianCocoaPod.git", :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.platform     = :ios, '7.0'

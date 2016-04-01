@@ -1,0 +1,6 @@
+framework module FirstJulianCocoaPod {
+  umbrella header "FirstJulianCocoaPod-umbrella.h"
+
+  export *
+  module * { export * }
+}

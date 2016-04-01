@@ -1,0 +1,14 @@
+PODS:
+  - FirstJulianCocoaPod (0.1.0)
+
+DEPENDENCIES:
+  - FirstJulianCocoaPod (from `../`)
+
+EXTERNAL SOURCES:
+  FirstJulianCocoaPod:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FirstJulianCocoaPod: 20a1a0ffe469e9c6a406ff0b1493d148246cf6ff
+
+COCOAPODS: 0.39.0
