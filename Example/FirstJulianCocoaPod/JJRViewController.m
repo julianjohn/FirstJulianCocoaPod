@@ -7,7 +7,7 @@
 //
 
 #import "JJRViewController.h"
-
+#import <FirstJulianCocoaPod/MathOperation.h>
 @interface JJRViewController ()
 
 @end
@@ -18,6 +18,9 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    MathOperation *matObject = [[MathOperation alloc] init];
+    int sum = [matObject addA:100 withB:10];
+    NSLog(@"Sum - %d", sum);
 }
 
 - (void)didReceiveMemoryWarning

@@ -8,43 +8,45 @@
 
 /* Begin PBXBuildFile section */
 		107AE992DD3FB416552C7C68C99C9B58 /* Pods-FirstJulianCocoaPod_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 7940660F1E989D8A2C4797B41D43908C /* Pods-FirstJulianCocoaPod_Tests-dummy.m */; };
+		11D9416D37A36A824C7502B80C669849 /* FirstJulianCocoaPod.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 7BEA73DEE4D7B96063E6DC23FF951130 /* FirstJulianCocoaPod.bundle */; };
 		13F75E8EA5B29049F11ABACCD6C2B5DD /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E4E89230EF59BC255123B67864ACF77 /* Foundation.framework */; };
 		27171237665931C0BC73FCCCCC03DA48 /* Pods-FirstJulianCocoaPod_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = E1854E2F3C441D808D6E213B12249871 /* Pods-FirstJulianCocoaPod_Example-dummy.m */; };
-		2A4022561BCF144CF4BBF8B3AB4F71CF /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D397DEC4DA50B32334F8323EAD09766 /* ReplaceMe.m */; };
+		3BF9E2AB0120972965F39AD72674FEB3 /* MathOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = CC79A34A932EECCF3047D3364221797F /* MathOperation.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		427117066CB7099D15DA69BF1B5DF399 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E4E89230EF59BC255123B67864ACF77 /* Foundation.framework */; };
+		65047A01C2EAC37B4BB2123C1F659CDD /* FirstJulianCocoaPod-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = D302905CC53A0B45FE3E43019A031A66 /* FirstJulianCocoaPod-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		67C838511FFBA6B73AA6D05B9401F0BB /* Pods-FirstJulianCocoaPod_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 2DB738D0065CCEC6F4B4EEB8D3653598 /* Pods-FirstJulianCocoaPod_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		6A2E2689DAD4885F18343E08D2053A3A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E4E89230EF59BC255123B67864ACF77 /* Foundation.framework */; };
+		8250B86A0D98305228065B7DAB71E4EC /* FirstJulianCocoaPod-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E7C0442A725D684B77708D6C6DA6220 /* FirstJulianCocoaPod-dummy.m */; };
 		8673EC65146AD20F558414610A4006A2 /* Pods-FirstJulianCocoaPod_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = AD0613399857063E817A4C5E122C5DC8 /* Pods-FirstJulianCocoaPod_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		9CB3ACFA5848E99239A57A3A6531F2DA /* FirstJulianCocoaPod-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = D302905CC53A0B45FE3E43019A031A66 /* FirstJulianCocoaPod-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B3AFA2CA0F576E146EF04F6C3053722A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E4E89230EF59BC255123B67864ACF77 /* Foundation.framework */; };
-		BDE312155C955D9C519C8EF443237984 /* FirstJulianCocoaPod-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E7C0442A725D684B77708D6C6DA6220 /* FirstJulianCocoaPod-dummy.m */; };
-		F3249FC33F9517944D3E86D3E1215270 /* FirstJulianCocoaPod.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 7BEA73DEE4D7B96063E6DC23FF951130 /* FirstJulianCocoaPod.bundle */; };
+		D1B6949F62176C2C7A05097BC1186A2E /* MathOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C863781332004BBB708D5B5227B8124 /* MathOperation.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		3EB9C3B8F707343796E73BC320127514 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 1EC034FCA0B69FBA232D2988C5428632;
-			remoteInfo = "FirstJulianCocoaPod-FirstJulianCocoaPod";
-		};
 		442E0E4460FF81F2EECACADF489C7277 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = DD08D83B25A7653B96B06B6211869D6A;
+			remoteGlobalIDString = ABE798D7CE180D8EEC2606338A32F07E;
 			remoteInfo = FirstJulianCocoaPod;
 		};
 		6E7C43D8CF05A042FF253DF8EC990335 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = DD08D83B25A7653B96B06B6211869D6A;
+			remoteGlobalIDString = ABE798D7CE180D8EEC2606338A32F07E;
 			remoteInfo = FirstJulianCocoaPod;
+		};
+		E72D98C8B6CABFA3ED1344F4D4AD5153 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 6F2EC4E6C07AD5CA36480803BF6BAC15;
+			remoteInfo = "FirstJulianCocoaPod-FirstJulianCocoaPod";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0C863781332004BBB708D5B5227B8124 /* MathOperation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = MathOperation.m; sourceTree = "<group>"; };
 		0E7C0442A725D684B77708D6C6DA6220 /* FirstJulianCocoaPod-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "FirstJulianCocoaPod-dummy.m"; sourceTree = "<group>"; };
 		17CAE5951E169D4E2BCBCC07554424A3 /* Pods-FirstJulianCocoaPod_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-FirstJulianCocoaPod_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		1B8520CDDD9B1F6B44B42B84D251F3AA /* Pods-FirstJulianCocoaPod_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-FirstJulianCocoaPod_Example-frameworks.sh"; sourceTree = "<group>"; };
@@ -52,7 +54,6 @@
 		3CC90702ABF65BC52CD5FD2E391CDD10 /* Pods-FirstJulianCocoaPod_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-FirstJulianCocoaPod_Tests.modulemap"; sourceTree = "<group>"; };
 		3E4E89230EF59BC255123B67864ACF77 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		4175AFDAD301BC9B15853E0DF464CDD2 /* FirstJulianCocoaPod.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = FirstJulianCocoaPod.modulemap; sourceTree = "<group>"; };
-		4D397DEC4DA50B32334F8323EAD09766 /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = ReplaceMe.m; sourceTree = "<group>"; };
 		51CB1DBE7BC30832FEC3A2B86CB0115F /* Pods_FirstJulianCocoaPod_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FirstJulianCocoaPod_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		65D566945487919C9C906ED0D7C1A6FC /* Pods-FirstJulianCocoaPod_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-FirstJulianCocoaPod_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		6F5A0658897D33365A3B3BF8534ADD20 /* Pods-FirstJulianCocoaPod_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-FirstJulianCocoaPod_Example.modulemap"; sourceTree = "<group>"; };
@@ -71,6 +72,7 @@
 		B0146529E7C9287CC4A443E6C3C24D94 /* Pods-FirstJulianCocoaPod_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-FirstJulianCocoaPod_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		BA6428E9F66FD5A23C0A2E06ED26CD2F /* Podfile */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		C26AC7811D0453CFA614728520F33CC6 /* Pods-FirstJulianCocoaPod_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-FirstJulianCocoaPod_Tests-frameworks.sh"; sourceTree = "<group>"; };
+		CC79A34A932EECCF3047D3364221797F /* MathOperation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = MathOperation.h; sourceTree = "<group>"; };
 		D302905CC53A0B45FE3E43019A031A66 /* FirstJulianCocoaPod-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FirstJulianCocoaPod-umbrella.h"; sourceTree = "<group>"; };
 		D74BA6326A77A61C86DAAE4C738361C0 /* Pods_FirstJulianCocoaPod_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FirstJulianCocoaPod_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D787A4A79DE97CFFB25E5EBFA8D54257 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -81,26 +83,26 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		199B4D048C94D27E0ABBD1627A7D94D5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2558333372F104EDF5A04A014B39828E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				427117066CB7099D15DA69BF1B5DF399 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		3AF32196A46D8A4C1D16ED618146F384 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				B3AFA2CA0F576E146EF04F6C3053722A /* Foundation.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		4347B6515ABE8BC2874BE50116AEEEC0 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				6A2E2689DAD4885F18343E08D2053A3A /* Foundation.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		61D7EA51B5F15FFB845CDFCEE30F177F /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -159,19 +161,11 @@
 		55963934E08B8B33165C5795DDF3618F /* FirstJulianCocoaPod */ = {
 			isa = PBXGroup;
 			children = (
-				643A6C85ADB39D042B8DDC8B8D383D80 /* Pod */,
+				8EF9C81B4F25D0672E2BA4A496D75732 /* Pod */,
 				3C1AA694145B68B144298B6E1E487E99 /* Support Files */,
 			);
 			name = FirstJulianCocoaPod;
 			path = ../..;
-			sourceTree = "<group>";
-		};
-		643A6C85ADB39D042B8DDC8B8D383D80 /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				D12D7C0C17498AE563572DD884798F61 /* Classes */,
-			);
-			path = Pod;
 			sourceTree = "<group>";
 		};
 		7DB346D0F39D3F0E887471402A8071AB = {
@@ -183,6 +177,14 @@
 				D7CF0FE0A27588C6E73C84697D7828B5 /* Products */,
 				52C331CEABBFA30397BDDD1C88049299 /* Targets Support Files */,
 			);
+			sourceTree = "<group>";
+		};
+		8EF9C81B4F25D0672E2BA4A496D75732 /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				EAA3B7369405F51A8C102755E729B8B6 /* Classes */,
+			);
+			path = Pod;
 			sourceTree = "<group>";
 		};
 		BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */ = {
@@ -199,14 +201,6 @@
 				3E4E89230EF59BC255123B67864ACF77 /* Foundation.framework */,
 			);
 			name = iOS;
-			sourceTree = "<group>";
-		};
-		D12D7C0C17498AE563572DD884798F61 /* Classes */ = {
-			isa = PBXGroup;
-			children = (
-				4D397DEC4DA50B32334F8323EAD09766 /* ReplaceMe.m */,
-			);
-			path = Classes;
 			sourceTree = "<group>";
 		};
 		D69B51E404DE7D792692693D2262DAD6 /* Development Pods */ = {
@@ -246,22 +240,32 @@
 			path = "Target Support Files/Pods-FirstJulianCocoaPod_Example";
 			sourceTree = "<group>";
 		};
+		EAA3B7369405F51A8C102755E729B8B6 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				CC79A34A932EECCF3047D3364221797F /* MathOperation.h */,
+				0C863781332004BBB708D5B5227B8124 /* MathOperation.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		0CFE70BE4D992FB0D0B67BC84D5248A3 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				9CB3ACFA5848E99239A57A3A6531F2DA /* FirstJulianCocoaPod-umbrella.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		25583C2690CB6C12EE54A47D4AB06202 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				67C838511FFBA6B73AA6D05B9401F0BB /* Pods-FirstJulianCocoaPod_Tests-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9DA58AAA3530A36171F2A02E637327B7 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				65047A01C2EAC37B4BB2123C1F659CDD /* FirstJulianCocoaPod-umbrella.h in Headers */,
+				3BF9E2AB0120972965F39AD72674FEB3 /* MathOperation.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -276,23 +280,6 @@
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		1EC034FCA0B69FBA232D2988C5428632 /* FirstJulianCocoaPod-FirstJulianCocoaPod */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = A6FE484352D2C8D3D929C7651E203550 /* Build configuration list for PBXNativeTarget "FirstJulianCocoaPod-FirstJulianCocoaPod" */;
-			buildPhases = (
-				5381B501918550C1020BA4156F5218E2 /* Sources */,
-				61D7EA51B5F15FFB845CDFCEE30F177F /* Frameworks */,
-				8930D268DF49115964A7688DCD4F80EE /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = "FirstJulianCocoaPod-FirstJulianCocoaPod";
-			productName = "FirstJulianCocoaPod-FirstJulianCocoaPod";
-			productReference = 7BEA73DEE4D7B96063E6DC23FF951130 /* FirstJulianCocoaPod.bundle */;
-			productType = "com.apple.product-type.bundle";
-		};
 		5AFE930C34338377EDF8FE4F8F09F557 /* Pods-FirstJulianCocoaPod_Example */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 0175E1B6BE7BC6D66227EC19186D89F3 /* Build configuration list for PBXNativeTarget "Pods-FirstJulianCocoaPod_Example" */;
@@ -310,6 +297,23 @@
 			productName = "Pods-FirstJulianCocoaPod_Example";
 			productReference = 51CB1DBE7BC30832FEC3A2B86CB0115F /* Pods_FirstJulianCocoaPod_Example.framework */;
 			productType = "com.apple.product-type.framework";
+		};
+		6F2EC4E6C07AD5CA36480803BF6BAC15 /* FirstJulianCocoaPod-FirstJulianCocoaPod */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DAD460DBFB28F8C1A511326079DA9557 /* Build configuration list for PBXNativeTarget "FirstJulianCocoaPod-FirstJulianCocoaPod" */;
+			buildPhases = (
+				8D038E316CB0FB70A3C680460915FECB /* Sources */,
+				199B4D048C94D27E0ABBD1627A7D94D5 /* Frameworks */,
+				B050E54B99950E8ADA3769E3EC777944 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "FirstJulianCocoaPod-FirstJulianCocoaPod";
+			productName = "FirstJulianCocoaPod-FirstJulianCocoaPod";
+			productReference = 7BEA73DEE4D7B96063E6DC23FF951130 /* FirstJulianCocoaPod.bundle */;
+			productType = "com.apple.product-type.bundle";
 		};
 		AB51DC2F55CD2EC17DC3215AF9B20ADD /* Pods-FirstJulianCocoaPod_Tests */ = {
 			isa = PBXNativeTarget;
@@ -329,19 +333,19 @@
 			productReference = D74BA6326A77A61C86DAAE4C738361C0 /* Pods_FirstJulianCocoaPod_Tests.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		DD08D83B25A7653B96B06B6211869D6A /* FirstJulianCocoaPod */ = {
+		ABE798D7CE180D8EEC2606338A32F07E /* FirstJulianCocoaPod */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7078C3A4C586A2FF6651B6F63F824186 /* Build configuration list for PBXNativeTarget "FirstJulianCocoaPod" */;
+			buildConfigurationList = 0343EE187209245ADA3298D95D2316C1 /* Build configuration list for PBXNativeTarget "FirstJulianCocoaPod" */;
 			buildPhases = (
-				22FE56D70A3E04435B4904F8132F787C /* Sources */,
-				4347B6515ABE8BC2874BE50116AEEEC0 /* Frameworks */,
-				8F82E3762E00FE3343401C6D37EDC579 /* Resources */,
-				0CFE70BE4D992FB0D0B67BC84D5248A3 /* Headers */,
+				D4482180A3AA14FC56B7991235439C7D /* Sources */,
+				2558333372F104EDF5A04A014B39828E /* Frameworks */,
+				D11B90E5A3378B4B402363437639BCB6 /* Resources */,
+				9DA58AAA3530A36171F2A02E637327B7 /* Headers */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				8DE66874D10E8135E86EB3A2A857D869 /* PBXTargetDependency */,
+				B012217CEEB00591B83FA39D57F41EE1 /* PBXTargetDependency */,
 			);
 			name = FirstJulianCocoaPod;
 			productName = FirstJulianCocoaPod;
@@ -369,8 +373,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				DD08D83B25A7653B96B06B6211869D6A /* FirstJulianCocoaPod */,
-				1EC034FCA0B69FBA232D2988C5428632 /* FirstJulianCocoaPod-FirstJulianCocoaPod */,
+				ABE798D7CE180D8EEC2606338A32F07E /* FirstJulianCocoaPod */,
+				6F2EC4E6C07AD5CA36480803BF6BAC15 /* FirstJulianCocoaPod-FirstJulianCocoaPod */,
 				5AFE930C34338377EDF8FE4F8F09F557 /* Pods-FirstJulianCocoaPod_Example */,
 				AB51DC2F55CD2EC17DC3215AF9B20ADD /* Pods-FirstJulianCocoaPod_Tests */,
 			);
@@ -378,33 +382,24 @@
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		8930D268DF49115964A7688DCD4F80EE /* Resources */ = {
+		B050E54B99950E8ADA3769E3EC777944 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		8F82E3762E00FE3343401C6D37EDC579 /* Resources */ = {
+		D11B90E5A3378B4B402363437639BCB6 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F3249FC33F9517944D3E86D3E1215270 /* FirstJulianCocoaPod.bundle in Resources */,
+				11D9416D37A36A824C7502B80C669849 /* FirstJulianCocoaPod.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		22FE56D70A3E04435B4904F8132F787C /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				BDE312155C955D9C519C8EF443237984 /* FirstJulianCocoaPod-dummy.m in Sources */,
-				2A4022561BCF144CF4BBF8B3AB4F71CF /* ReplaceMe.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		345B36103A477A5BD198F8E56807494E /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -413,7 +408,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5381B501918550C1020BA4156F5218E2 /* Sources */ = {
+		8D038E316CB0FB70A3C680460915FECB /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -428,26 +423,35 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		D4482180A3AA14FC56B7991235439C7D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8250B86A0D98305228065B7DAB71E4EC /* FirstJulianCocoaPod-dummy.m in Sources */,
+				D1B6949F62176C2C7A05097BC1186A2E /* MathOperation.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
 		1A363F5D53586D4CDABD5524614B0F6E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = FirstJulianCocoaPod;
-			target = DD08D83B25A7653B96B06B6211869D6A /* FirstJulianCocoaPod */;
+			target = ABE798D7CE180D8EEC2606338A32F07E /* FirstJulianCocoaPod */;
 			targetProxy = 6E7C43D8CF05A042FF253DF8EC990335 /* PBXContainerItemProxy */;
-		};
-		8DE66874D10E8135E86EB3A2A857D869 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = "FirstJulianCocoaPod-FirstJulianCocoaPod";
-			target = 1EC034FCA0B69FBA232D2988C5428632 /* FirstJulianCocoaPod-FirstJulianCocoaPod */;
-			targetProxy = 3EB9C3B8F707343796E73BC320127514 /* PBXContainerItemProxy */;
 		};
 		A7CEA1113993F4A9083A8356C1173F9C /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = FirstJulianCocoaPod;
-			target = DD08D83B25A7653B96B06B6211869D6A /* FirstJulianCocoaPod */;
+			target = ABE798D7CE180D8EEC2606338A32F07E /* FirstJulianCocoaPod */;
 			targetProxy = 442E0E4460FF81F2EECACADF489C7277 /* PBXContainerItemProxy */;
+		};
+		B012217CEEB00591B83FA39D57F41EE1 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "FirstJulianCocoaPod-FirstJulianCocoaPod";
+			target = 6F2EC4E6C07AD5CA36480803BF6BAC15 /* FirstJulianCocoaPod-FirstJulianCocoaPod */;
+			targetProxy = E72D98C8B6CABFA3ED1344F4D4AD5153 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -615,33 +619,6 @@
 			};
 			name = Release;
 		};
-		1659FB7F6502423BFAF7088BC4EFD2B9 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8C6D7C229CD1E35D30416B1AEA54F7F7 /* FirstJulianCocoaPod.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/FirstJulianCocoaPod/FirstJulianCocoaPod-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/FirstJulianCocoaPod/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/FirstJulianCocoaPod/FirstJulianCocoaPod.modulemap";
-				MTL_ENABLE_DEBUG_INFO = YES;
-				PRODUCT_NAME = FirstJulianCocoaPod;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
 		187B81115F0BF922BC4F08A9AA4AAA73 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = A99053025FBD716112A2D211420D8522 /* Pods-FirstJulianCocoaPod_Example.debug.xcconfig */;
@@ -672,7 +649,34 @@
 			};
 			name = Debug;
 		};
-		2A304596DE6705787946B0A8C475658A /* Debug */ = {
+		71C7C64735E7A6B7A5BB0A9ACBB0A262 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8C6D7C229CD1E35D30416B1AEA54F7F7 /* FirstJulianCocoaPod.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/FirstJulianCocoaPod/FirstJulianCocoaPod-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/FirstJulianCocoaPod/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/FirstJulianCocoaPod/FirstJulianCocoaPod.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				PRODUCT_NAME = FirstJulianCocoaPod;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		93F0CA3E0C3D739D0831807E1EEC3148 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 8C6D7C229CD1E35D30416B1AEA54F7F7 /* FirstJulianCocoaPod.xcconfig */;
 			buildSettings = {
@@ -684,19 +688,7 @@
 			};
 			name = Debug;
 		};
-		A1B362266C686E8B94CA946D345B2CA2 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8C6D7C229CD1E35D30416B1AEA54F7F7 /* FirstJulianCocoaPod.xcconfig */;
-			buildSettings = {
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				PRODUCT_NAME = FirstJulianCocoaPod;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				WRAPPER_EXTENSION = bundle;
-			};
-			name = Release;
-		};
-		D3EFF1200089A1EEE0C51DEEC9C8EDE6 /* Release */ = {
+		B355A618D7B66024DDA94A40EFC81F4F /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 8C6D7C229CD1E35D30416B1AEA54F7F7 /* FirstJulianCocoaPod.xcconfig */;
 			buildSettings = {
@@ -723,6 +715,18 @@
 			};
 			name = Release;
 		};
+		FF6DBBBD6098A140D1EE1F674B6A8A92 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8C6D7C229CD1E35D30416B1AEA54F7F7 /* FirstJulianCocoaPod.xcconfig */;
+			buildSettings = {
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				PRODUCT_NAME = FirstJulianCocoaPod;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				WRAPPER_EXTENSION = bundle;
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -731,6 +735,15 @@
 			buildConfigurations = (
 				187B81115F0BF922BC4F08A9AA4AAA73 /* Debug */,
 				0D832ECAD9789B282AE3D4557089F1E7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		0343EE187209245ADA3298D95D2316C1 /* Build configuration list for PBXNativeTarget "FirstJulianCocoaPod" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				71C7C64735E7A6B7A5BB0A9ACBB0A262 /* Debug */,
+				B355A618D7B66024DDA94A40EFC81F4F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -753,20 +766,11 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7078C3A4C586A2FF6651B6F63F824186 /* Build configuration list for PBXNativeTarget "FirstJulianCocoaPod" */ = {
+		DAD460DBFB28F8C1A511326079DA9557 /* Build configuration list for PBXNativeTarget "FirstJulianCocoaPod-FirstJulianCocoaPod" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				1659FB7F6502423BFAF7088BC4EFD2B9 /* Debug */,
-				D3EFF1200089A1EEE0C51DEEC9C8EDE6 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		A6FE484352D2C8D3D929C7651E203550 /* Build configuration list for PBXNativeTarget "FirstJulianCocoaPod-FirstJulianCocoaPod" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				2A304596DE6705787946B0A8C475658A /* Debug */,
-				A1B362266C686E8B94CA946D345B2CA2 /* Release */,
+				93F0CA3E0C3D739D0831807E1EEC3148 /* Debug */,
+				FF6DBBBD6098A140D1EE1F674B6A8A92 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

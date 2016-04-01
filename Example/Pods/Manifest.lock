@@ -9,6 +9,6 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  FirstJulianCocoaPod: 20a1a0ffe469e9c6a406ff0b1493d148246cf6ff
+  FirstJulianCocoaPod: f2726adcf120a93ab48bfe90a04cc10bd0cd9bbe
 
 COCOAPODS: 0.39.0
